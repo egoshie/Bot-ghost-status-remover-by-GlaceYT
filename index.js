@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["TÜM KOMUTLARIM ÇALIŞIYORC"];
+const statusMessages = ["Tüm komutlarım çalıyor"];
 
 
 let currentIndex = 0;
