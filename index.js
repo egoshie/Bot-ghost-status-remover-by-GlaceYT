@@ -35,8 +35,7 @@ app.listen(port, () => {
   console.log(`🔗 Powered By RTX`);
 });
 
-
-const statusMessages = ["/help Dinliyor ! "];
+const statusMessages = ["/help Dinliyor ! Point blank oynuyor"];
 
 
 let currentIndex = 0;
